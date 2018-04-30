@@ -1,6 +1,8 @@
 # DragonExApiSampleCSharp
 This is an C# sample for DragonEx Api
 
+Require .Net Framework 4.5.2 & Newtonsoft.Json 11.0.2
+
 There is
 
 1.No exception management.
