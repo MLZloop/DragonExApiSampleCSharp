@@ -1,5 +1,5 @@
 # DragonExApiSampleCSharp
-This is an C# sample for DragonEx Api
+This is a C# sample for DragonEx Api
 
 ### Require 
 
